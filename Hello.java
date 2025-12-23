@@ -2,6 +2,6 @@ public class Hello
 {
     public static void main(String[] args) 
     {
-        System.out.pintln("Hello, world! From: Joseph Owens");
+        System.out.println("Hello, world! From: Joseph Owens")
     }
 }
